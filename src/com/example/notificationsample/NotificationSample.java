@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.support.v4.app.NotificationCompat;
 import android.view.View;
 
-public class MainActivity extends Activity
+public class NotificationSample extends Activity
 {
     /** Called when the activity is first created. */
     @Override
